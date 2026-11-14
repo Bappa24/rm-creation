@@ -1,0 +1,1 @@
+Product photos are stored in Supabase Storage, not this repository.
